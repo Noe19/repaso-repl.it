@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//factorial mediante funciones
 int  fac (int  );
 int main() {
   int num;
